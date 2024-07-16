@@ -1,0 +1,1680 @@
+repo_name: Huntemall/datatracker-dev
+report_id: c384ccd0fb1c94df2b1ab12e8e8be1b6
+version: 0.1
+repo_type: Public
+timestamp: '2024-07-16T10:07:38+00:00'
+requested_by: rjsparks
+provider: github
+branch: main
+detected_tools_count: 116
+tools:
+- name: C lang
+  description: One of the most widely used programming languages of all time
+  website_url: http://en.wikipedia.org/wiki/C_(programming_language)
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev
+  detection_source: Repo Metadata
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/Huntemall/datatracker-dev
+  detection_source: Repo Metadata
+- name: Perl
+  description: Highly capable, feature-rich programming language with over 26 years
+    of development
+  website_url: http://www.perl.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1048/perl.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev
+  detection_source: Repo Metadata
+- name: Pug
+  description: Robust, elegant, feature rich template engine for nodejs
+  website_url: https://pugjs.org
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/1175/pug.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Lars Eggert
+  last_updated_on: 2021-11-09 13:54:17.000000000 Z
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev
+  detection_source: Repo Metadata
+- name: SQL
+  description: It is a domain-specific language used in programming
+  website_url: https://en.wikipedia.org/wiki/SQL
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/test/sql_fixup.sql
+  detection_source: test/sql_fixup.sql
+  last_updated_by: Bill Fenner
+  last_updated_on: 2007-06-01 18:25:39.000000000 Z
+- name: Swift
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
+  website_url: https://developer.apple.com/swift/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/docker-compose.yml
+  detection_source: docker-compose.yml
+  last_updated_by: nick
+  last_updated_on: 2021-10-27 16:41:02.000000000 Z
+- name: Bootstrap
+  description: Simple and flexible HTML, CSS, and JS for popular UI components and
+    interactions
+  website_url: http://getbootstrap.com/
+  version: 5.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/1101/C9QJ7V3X.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Nicolas Giard
+  last_updated_on: 2023-06-01 15:18:01.000000000 Z
+- name: Chart.js
+  description: Simple, clean and engaging charts for designers and developers
+  website_url: http://www.chartjs.org/
+  version: 3.5.1
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/3866/_GD1-XrU_400x400.jpg
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/dev/coverage-action/package-lock.json
+  detection_source: dev/coverage-action/package.json
+  last_updated_by: Nicolas Giard
+  last_updated_on: 2023-03-16 21:26:22.000000000 Z
+- name: D3.js
+  description: A JavaScript visualization library for HTML and SVG
+  website_url: http://d3js.org/
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Charting Libraries
+  image_url: https://img.stackshare.io/service/1491/HgKolWB5_400x400.jpg
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Lars Eggert
+  last_updated_on: 2021-11-09 13:54:17.000000000 Z
+- name: Highcharts
+  description: A charting library written in pure JavaScript, offering an easy way
+    of adding interactive charts to your web site or web application
+  website_url: http://www.highcharts.com/products/highcharts
+  version: 11.1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Charting Libraries
+  image_url: https://img.stackshare.io/service/1435/Vx4_Psj1.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: depfu[bot]
+  last_updated_on: 2023-06-21 16:42:59.000000000 Z
+- name: Sass
+  description: Syntactically Awesome Style Sheets
+  website_url: http://sass-lang.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Lars Eggert
+  last_updated_on: 2021-11-09 13:54:17.000000000 Z
+- name: Select2
+  description: The jQuery replacement for select boxes
+  website_url: https://select2.github.io/
+  version: 4.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/7488/select2.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Lars Eggert
+  last_updated_on: 2022-05-13 19:08:26.000000000 Z
+- name: Vue.js
+  description: A progressive framework for building user interfaces
+  website_url: http://vuejs.org/
+  version: 3.3.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript MVC Frameworks
+  image_url: https://img.stackshare.io/service/3837/paeckCWC.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Lars Eggert
+  last_updated_on: 2021-12-08 08:55:45.000000000 Z
+- name: jQuery
+  description: The Write Less, Do More, JavaScript Library.
+  website_url: http://jquery.com/
+  version: 3.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: depfu[bot]
+  last_updated_on: 2023-05-31 18:08:07.000000000 Z
+- name: PostgreSQL
+  description: A powerful, open source object-relational database system
+  website_url: http://www.postgresql.org/
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1028/ASOhU5xJ.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/docker-compose.yml
+  detection_source: docker-compose.yml
+  last_updated_by: Jim Fenton
+  last_updated_on: 2023-03-29 01:45:03.000000000 Z
+- name: RabbitMQ
+  description: Open source multiprotocol messaging broker
+  website_url: http://www.rabbitmq.com/
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Message Queue
+  image_url: https://img.stackshare.io/service/1061/default_df93e9a30d27519161b39d8c1d5c223c1642d187.jpg
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/dev/mq/rabbitmq.conf
+  detection_source: dev/mq/rabbitmq.conf
+  last_updated_by: Jennifer Richards
+  last_updated_on: 2022-08-22 18:29:31.000000000 Z
+- name: migra
+  description: A schema diff tool for PostgreSQL
+  website_url: https://migra.djrobstep.com/
+  license: Unlicense
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-03-13 20:05:57.000000000 Z
+- name: Codecov
+  description: Hosted coverage reports with awesome features to enhance your CI workflow
+  website_url: https://codecov.io/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Code Coverage
+  image_url: https://img.stackshare.io/service/2673/Codecov_Mark_Circle_Pink.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/dev/codecov.yml
+  detection_source: dev/codecov.yml
+  last_updated_by: Nicolas Giard
+  last_updated_on: 2022-05-31 22:56:39.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev
+  detection_source: Repo Metadata
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/dev/coverage-action/.eslintrc
+  detection_source: dev/coverage-action/.eslintrc
+  last_updated_by: NGPixel
+  last_updated_on: 2022-03-31 05:55:34.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/.github/workflows/build-base-app.yml
+  detection_source: ".github/workflows/build-base-app.yml"
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-03-13 19:58:15.000000000 Z
+- name: Octokit
+  description: GitHub API Client Library for .NET
+  website_url: https://github.com/octokit/octokit.net
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Tools for GitHub
+  image_url: https://img.stackshare.io/service/9827/octokit-dotnet_2.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/dev/del-old-packages/package.json
+  detection_source: dev/del-old-packages/package.json
+  last_updated_by: depfu[bot]
+  last_updated_on: 2023-06-21 16:44:45.000000000 Z
+- name: Parcel
+  description: "\U0001F4E6\U0001F680  A fast, zero configuration web application bundler"
+  website_url: https://parceljs.org/
+  version: 2.9.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/8054/fC6Wad-S_400x400.jpg
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: depfu[bot]
+  last_updated_on: 2023-06-05 12:12:03.000000000 Z
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Henrik Levkowetz
+  last_updated_on: 2015-04-12 14:04:06.000000000 Z
+- name: Visual Studio Code
+  description: Build and debug modern web and cloud applications, by Microsoft
+  website_url: https://code.visualstudio.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Text Editor
+  image_url: https://img.stackshare.io/service/4202/Visual_Studio_Code_logo.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/.vscode/tasks.json
+  detection_source: ".vscode/tasks.json"
+  last_updated_by: nick
+  last_updated_on: 2021-10-27 16:41:02.000000000 Z
+- name: Vite
+  description: Native-ESM powered web dev build tool
+  website_url: https://vitejs.dev/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/21547/default_1aeac791cde11ff66cc0b20dcc6144eeb185c905.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Lars Eggert
+  last_updated_on: 2021-11-09 13:54:17.000000000 Z
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/ietf/.yarnrc
+  detection_source: ietf/.yarnrc
+  last_updated_by: Henrik Levkowetz
+  last_updated_on: 2019-07-25 20:28:18.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Lars Eggert
+  last_updated_on: 2021-11-09 13:54:17.000000000 Z
+- name: Pillow
+  description: Python Imaging Library
+  website_url: https://python-pillow.github.io/
+  open_source: true
+  hosted_saas: false
+  category: Assets and Media
+  sub_category: Image Processing and Management
+  image_url: https://img.stackshare.io/service/2375/default_1f67b0ca7416a9f52beb655f90b5602d5ef74b75.jpg
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Robert Sparks
+  last_updated_on: 2022-04-29 14:45:41.000000000 Z
+- name: Alpine Linux
+  description: Security-oriented, lightweight Linux distribution based on musl libc
+    and busybox
+  website_url: https://www.alpinelinux.org/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/6429/alpine_linux.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/dev/shared-assets-sync/Dockerfile
+  detection_source: dev/shared-assets-sync/Dockerfile
+  last_updated_by: Nicolas Giard
+  last_updated_on: 2022-12-07 22:49:47.000000000 Z
+- name: CocoaPods
+  description: A dependency manager for Swift and Objective-C Cocoa projects
+  website_url: https://cocoapods.org/
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: CocoaPods Packages
+  image_url: https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/docker-compose.yml
+  detection_source: docker-compose.yml
+  last_updated_by: nick
+  last_updated_on: 2021-10-27 16:41:02.000000000 Z
+- name: Lodash
+  description: A JavaScript utility library
+  website_url: https://lodash.com
+  version: 4.17.21
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/2438/lodash.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/dev/coverage-action/package-lock.json
+  detection_source: dev/coverage-action/package.json
+  last_updated_by: NGPixel
+  last_updated_on: 2022-03-31 05:55:34.000000000 Z
+- name: Luxon
+  description: Library for working with dates and times in Javascript
+  website_url: https://moment.github.io/luxon/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/10330/no-img-open-source.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/dev/coverage-action/package.json
+  detection_source: dev/coverage-action/package.json
+  last_updated_by: Nicolas Giard
+  last_updated_on: 2023-03-16 20:16:04.000000000 Z
+- name: Moment.js
+  description: A JavaScript date library for parsing, validating, manipulating, and
+    formatting dates
+  website_url: http://momentjs.com/
+  version: 2.29.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/3643/Xrtdc94q_400x400.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: depfu[bot]
+  last_updated_on: 2023-04-25 21:29:08.000000000 Z
+- name: Pinia
+  description: The Vue Store that you will enjoy using
+  website_url: https://pinia.vuejs.org/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/48301/default_0cffd727391e16b2a8bd6edbcffc0255a3a541d0.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: depfu[bot]
+  last_updated_on: 2023-06-05 12:12:03.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev
+  detection_source: Repo Metadata
+- name: Shepherd.js
+  description: Guide your users through a tour of your app
+  website_url: https://github.com/shipshapecode/shepherd
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/11065/17297725.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: depfu[bot]
+  last_updated_on: 2023-04-13 16:48:03.000000000 Z
+- name: chalk
+  description: terminal colors
+  website_url: https://github.com/chalk/chalk
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8072/13122722.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/dev/diff/package.json
+  detection_source: dev/diff/package.json
+  last_updated_by: depfu[bot]
+  last_updated_on: 2023-03-21 22:57:10.000000000 Z
+- name: zxcvbn
+  website_url: https://github.com/dropbox/zxcvbn
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/7797/559357.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Nicolas Giard
+  last_updated_on: 2022-04-25 20:54:05.000000000 Z
+- name: Django
+  description: A high-level Python Web framework that encourages rapid development
+    and clean
+  package_url: https://pypi.org/project/Django
+  version: '4.2'
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19832/default_58dbe7b4d7ec447b62773209af0f9a31bbabf5bd.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Jennifer Richards
+  last_updated_on: 2023-05-18 15:11:58.000000000 Z
+  vulnerabilities:
+  - name: Django bypasses validation when using one form field to upload multiple
+      files
+    cve_id: CVE-2023-31047
+    cve_url: https://github.com/advisories/GHSA-r3xc-prgr-mg9p
+    detected_date: May 10
+    severity: critical
+    first_patched: 4.2.1
+  - name: Django Path Traversal vulnerability
+    cve_id: CVE-2024-39330
+    cve_url: https://github.com/advisories/GHSA-9jmf-237g-qf46
+    detected_date: Jul 11
+    severity: high
+    first_patched: 4.2.14
+  - name: Django vulnerable to Denial of Service
+    cve_id: CVE-2024-39614
+    cve_url: https://github.com/advisories/GHSA-f6f8-9mx6-9mx2
+    detected_date: Jul 11
+    severity: high
+    first_patched: 4.2.14
+  - name: Django vulnerable to Denial of Service
+    cve_id: CVE-2024-38875
+    cve_url: https://github.com/advisories/GHSA-qg2p-9jwr-mmqf
+    detected_date: Jul 11
+    severity: high
+    first_patched: 4.2.14
+  - name: Django has regular expression denial of service vulnerability in EmailValidator/URLValidator
+    cve_id: CVE-2023-36053
+    cve_url: https://github.com/advisories/GHSA-jh3w-4vvf-mjgr
+    detected_date: Jul 6
+    severity: high
+    first_patched: 4.2.3
+  - name: Django potential denial of service vulnerability in UsernameField on Windows
+    cve_id: CVE-2023-46695
+    cve_url: https://github.com/advisories/GHSA-qmf9-6jqf-j8fq
+    detected_date: Apr 4
+    severity: high
+    first_patched: 4.2.7
+  - name: Django vulnerable to user enumeration attack
+    cve_id: CVE-2024-39329
+    cve_url: https://github.com/advisories/GHSA-x7q2-wr7g-xqmf
+    detected_date: Jul 11
+    severity: moderate
+    first_patched: 4.2.14
+- name: gunicorn
+  description: WSGI HTTP Server for UNIX
+  package_url: https://pypi.org/project/gunicorn
+  version: 20.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19931/default_74a0c20721d3a0a1484d69586401591fe8993db2.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Robert Sparks
+  last_updated_on: 2022-01-27 15:58:21.000000000 Z
+  vulnerabilities:
+  - name: Request smuggling leading to endpoint restriction bypass in Gunicorn
+    cve_id: CVE-2024-1135
+    cve_url: https://github.com/advisories/GHSA-w3h3-4rj7-4ph4
+    detected_date: Apr 16
+    severity: high
+    first_patched: 22.0.0
+- name: setuptools
+  description: Easily download
+  package_url: https://pypi.org/project/setuptools
+  version: 51.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19831/default_65d1c12a133e1aa67ae96a1221c9c122ddf86c5f.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Jennifer Richards
+  last_updated_on: 2023-05-18 15:11:58.000000000 Z
+  vulnerabilities:
+  - name: setuptools vulnerable to Command Injection via package URL
+    cve_id: CVE-2024-6345
+    cve_url: https://github.com/advisories/GHSA-cx63-2mw6-8hw5
+    detected_date: Jul 16
+    severity: high
+    first_patched: 70.0.0
+  - name: pypa/setuptools vulnerable to Regular Expression Denial of Service (ReDoS)
+    cve_id: CVE-2022-40897
+    cve_url: https://github.com/advisories/GHSA-r9hx-vwmv-q579
+    detected_date: Dec 28
+    severity: high
+    first_patched: 65.5.1
+- name: lxml
+  description: Powerful and Pythonic XML processing library combining libxml2/libxslt
+    with the ElementTree API
+  package_url: https://pypi.org/project/lxml
+  version: 4.8.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19835/default_85689b353a3a9409328e253ea28d859d29151e0c.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Robert Sparks
+  last_updated_on: 2022-04-28 16:06:17.000000000 Z
+  vulnerabilities:
+  - name: lxml NULL Pointer Dereference allows attackers to cause a denial of service
+    cve_id: CVE-2022-2309
+    cve_url: https://github.com/advisories/GHSA-wrxv-2j5q-m38w
+    detected_date: Jul 7
+    severity: moderate
+    first_patched: 4.9.1
+- name: requests
+  description: Python HTTP for Humans
+  package_url: https://pypi.org/project/requests
+  version: 2.27.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19826/default_d7c684bf2673f008a9f02ac93901229297a22d7e.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Jennifer Richards
+  last_updated_on: 2023-05-18 15:11:58.000000000 Z
+  vulnerabilities:
+  - name: Requests `Session` object does not verify requests after making first request
+      with verify=False
+    cve_id: CVE-2024-35195
+    cve_url: https://github.com/advisories/GHSA-9wx4-h78v-vm56
+    detected_date: May 21
+    severity: moderate
+    first_patched: 2.32.0
+  - name: Unintended leak of Proxy-Authorization header in requests
+    cve_id: CVE-2023-32681
+    cve_url: https://github.com/advisories/GHSA-j8r2-6x86-q33q
+    detected_date: May 23
+    severity: moderate
+    first_patched: 2.31.0
+- name: tqdm
+  description: Fast, Extensible Progress Meter
+  package_url: https://pypi.org/project/tqdm
+  version: 4.64.0
+  license: MPL-2.0,MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19846/default_accee5d2b8ed75c2245f13504daf75b1cbc8cc9f.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Robert Sparks
+  last_updated_on: 2022-04-28 16:06:17.000000000 Z
+  vulnerabilities:
+  - name: tqdm CLI arguments injection attack
+    cve_id: CVE-2024-34062
+    cve_url: https://github.com/advisories/GHSA-g7vv-2v7x-gj9p
+    detected_date: May 4
+    severity: low
+    first_patched: 4.66.3
+- name: Unidecode
+  description: ASCII transliterations of Unicode text
+  package_url: https://pypi.org/project/Unidecode
+  version: 1.3.4
+  license: GPL-2.0+
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20001/default_fcae0ff2da138e12178ddb620f53c8af65eb3f61.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Jennifer Richards
+  last_updated_on: 2023-05-12 23:00:14.000000000 Z
+- name: argon2-cffi
+  description: The secure Argon2 password hashing algorithm
+  package_url: https://pypi.org/project/argon2-cffi
+  version: 21.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Robert Sparks
+  last_updated_on: 2022-04-28 16:06:17.000000000 Z
+- name: beautifulsoup4
+  description: Screen-scraping library
+  package_url: https://pypi.org/project/beautifulsoup4
+  version: 4.11.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19838/default_85689b353a3a9409328e253ea28d859d29151e0c.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Robert Sparks
+  last_updated_on: 2022-04-28 16:06:17.000000000 Z
+- name: bibtexparser
+  description: Bibtex parser for python 2.7 and 3.3 and newer
+  package_url: https://pypi.org/project/bibtexparser
+  version: 1.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Lars Eggert
+  last_updated_on: 2022-07-12 16:18:52.000000000 Z
+- name: bleach
+  description: An easy safelist-based HTML-sanitizing tool
+  package_url: https://pypi.org/project/bleach
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20045/default_b0b684477aefb2da4c92a4bafd91d26e16511cd1.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Jennifer Richards
+  last_updated_on: 2023-05-12 23:00:14.000000000 Z
+- name: celery
+  description: Distributed Task Queue
+  package_url: https://pypi.org/project/celery
+  version: 5.2.6
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19901/default_4f4fb10b6f169603a907dcb35a5a356d784e3bd3.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Jennifer Richards
+  last_updated_on: 2022-08-22 18:29:31.000000000 Z
+- name: coverage
+  description: Code coverage measurement for Python
+  package_url: https://pypi.org/project/coverage
+  version: 4.5.4
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19904/default_1d0eb6da6bdd342bb15f73d8f1721516ebacd1dc.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Robert Sparks
+  last_updated_on: 2022-04-28 16:06:17.000000000 Z
+- name: decorator
+  description: Decorators for Humans
+  package_url: https://pypi.org/project/decorator
+  version: 5.1.1
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19911/default_bc82f0b22ca8fd942e21c317967f4ab61f43eb2c.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Jennifer Richards
+  last_updated_on: 2023-05-12 23:00:14.000000000 Z
+- name: defusedxml
+  description: XML bomb protection for Python stdlib modules
+  package_url: https://pypi.org/project/defusedxml
+  version: 0.7.1
+  license: Python-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20210/default_6796c4086c025d18cdc673750b208b846d8e0914.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Jennifer Richards
+  last_updated_on: 2023-05-12 19:26:08.000000000 Z
+- name: django-cors-headers
+  description: Django-cors-headers is a Django application for handling the server
+    headers required for Cross-Origin Resource Sharing
+  package_url: https://pypi.org/project/django-cors-headers
+  version: 3.11.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20425/default_fd0859a8a050b41b42cc678a2c0c5f51ce41801a.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Jennifer Richards
+  last_updated_on: 2023-05-18 15:11:58.000000000 Z
+- name: django-debug-toolbar
+  description: A configurable set of panels that display various debug information
+    about the current request/response
+  package_url: https://pypi.org/project/django-debug-toolbar
+  version: 3.2.4
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20671/default_d50ff54d48cd87d57b8eda5d2d945fe31fb2ac8a.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Jennifer Richards
+  last_updated_on: 2023-05-18 15:11:58.000000000 Z
+- name: django-simple-history
+  description: Store model history and view/revert changes from admin site
+  package_url: https://pypi.org/project/django-simple-history
+  version: 3.0.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Jennifer Richards
+  last_updated_on: 2023-05-18 15:11:58.000000000 Z
+- name: django-tastypie
+  description: A flexible &amp; capable API layer for Django
+  package_url: https://pypi.org/project/django-tastypie
+  version: 0.14.5
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Jennifer Richards
+  last_updated_on: 2023-05-18 15:11:58.000000000 Z
+- name: django-widget-tweaks
+  description: Tweak the form field rendering in templates
+  package_url: https://pypi.org/project/django-widget-tweaks
+  version: 1.4.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Jennifer Richards
+  last_updated_on: 2023-05-18 15:11:58.000000000 Z
+- name: docutils
+  description: Docutils -- Python Documentation Utilities
+  package_url: https://pypi.org/project/docutils
+  version: 0.18.1
+  license: Unlicense,Python-2.0,BSD-2-Clause,CNRI-Python-GPL-Compatible
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19874/default_7ed3c4ccf2a3218ae3655165b980bd4a90a445dc.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Jennifer Richards
+  last_updated_on: 2023-05-12 23:00:14.000000000 Z
+- name: factory-boy
+  description: A versatile test fixtures replacement based on thoughtbot's factory_bot
+    for Ruby
+  package_url: https://pypi.org/project/factory-boy
+  version: 3.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Jennifer Richards
+  last_updated_on: 2022-08-22 18:29:31.000000000 Z
+- name: github3.py
+  description: Python wrapper for the GitHub API
+  package_url: https://pypi.org/project/github3.py
+  version: 3.2.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20400/default_27c957eac1674813a0a457a78f430be9e3c184a7.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Robert Sparks
+  last_updated_on: 2022-04-28 16:06:17.000000000 Z
+- name: html2text
+  description: Turn HTML into equivalent Markdown-structured text
+  package_url: https://pypi.org/project/html2text
+  version: 2020.1.16
+  license: GPL-3.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19982/default_ccb381b493daf0d966e015380e1894fdbc637ad3.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Robert Sparks
+  last_updated_on: 2022-04-28 16:06:17.000000000 Z
+- name: html5lib
+  description: HTML parser based on the WHATWG HTML specification
+  package_url: https://pypi.org/project/html5lib
+  version: '1.1'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19936/default_63c8e7696ded615c51302c06e54b0d0c8ae9af3f.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Robert Sparks
+  last_updated_on: 2022-04-28 16:06:17.000000000 Z
+- name: inflect
+  description: Correctly generate plurals
+  package_url: https://pypi.org/project/inflect
+  version: 6.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20130/default_5c04115b22cdadfa4cb3de74c5ab15c454f7c405.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Robert Sparks
+  last_updated_on: 2023-06-30 19:06:52.000000000 Z
+- name: mock
+  description: Rolling backport of unittest.mock for all Pythons
+  package_url: https://pypi.org/project/mock
+  version: 4.0.3
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19876/default_8902c10687fbcd6273bdbe119fff40fa1180763f.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Jennifer Richards
+  last_updated_on: 2023-05-12 23:00:14.000000000 Z
+- name: mypy
+  description: Optional static typing for Python
+  package_url: https://pypi.org/project/mypy
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20219/default_d4dd0466552a9776ca8535b869e22a3362790c94.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Jennifer Richards
+  last_updated_on: 2023-05-18 15:11:58.000000000 Z
+- name: oic
+  description: Python implementation of OAuth2 and OpenID Connect
+  package_url: https://pypi.org/project/oic
+  version: '1.3'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Henrik Levkowetz
+  last_updated_on: 2015-04-12 14:04:06.000000000 Z
+- name: psycopg2
+  description: Psycopg2 - Python-PostgreSQL Database Adapter
+  package_url: https://pypi.org/project/psycopg2
+  version: 2.9.6
+  license: BSD-3-Clause-Attribution
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20416/default_64aa60b33468d1d28611966765867676f6303b64.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Jennifer Richards
+  last_updated_on: 2023-05-12 19:26:08.000000000 Z
+- name: pydantic
+  description: Data validation and settings management using python 3.6 type hinting
+  package_url: https://pypi.org/project/pydantic
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20022/default_b0d1a54f127d7017fce41c15f5e85568fb7019ed.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Robert Sparks
+  last_updated_on: 2023-06-30 19:06:52.000000000 Z
+- name: pyflakes
+  description: Passive checker of Python programs
+  package_url: https://pypi.org/project/pyflakes
+  version: 2.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20155/default_00b4278983e5385b6d5b93c4ffc4ef51d53270e9.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Robert Sparks
+  last_updated_on: 2022-04-28 16:06:17.000000000 Z
+- name: pymemcache
+  description: '"A comprehensive, fast, pure Python memcached client"'
+  package_url: https://pypi.org/project/pymemcache
+  version: 4.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Jennifer Richards
+  last_updated_on: 2023-05-17 20:42:51.000000000 Z
+- name: pyquery
+  description: A jquery-like library for python
+  package_url: https://pypi.org/project/pyquery
+  version: 1.4.3
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20111/default_07c33e3fe9188a5efef46b09a8d6468a52dce7cb.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Robert Sparks
+  last_updated_on: 2022-04-28 16:06:17.000000000 Z
+- name: python-dateutil
+  description: Extensions to the standard Python datetime module
+  package_url: https://pypi.org/project/python-dateutil
+  version: 2.8.2
+  license: NRL
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19833/default_58dbe7b4d7ec447b62773209af0f9a31bbabf5bd.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Jennifer Richards
+  last_updated_on: 2023-05-12 23:00:14.000000000 Z
+- name: python-magic
+  description: File type identification using libmagic
+  package_url: https://pypi.org/project/python-magic
+  version: 0.4.18
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20245/default_79c7a01488eebdf30ca22b7316d9f77bbe7fad8b.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Jennifer Richards
+  last_updated_on: 2023-05-12 23:00:14.000000000 Z
+- name: python-mimeparse
+  description: A module provides basic functions for parsing mime-type names and matching
+    them against a list of media-ranges
+  package_url: https://pypi.org/project/python-mimeparse
+  version: '1.6'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20548/default_cde277f9f5ddb25ccf86d553790fb97f5a8f825c.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Jennifer Richards
+  last_updated_on: 2023-05-12 23:00:14.000000000 Z
+- name: pytz
+  description: World timezone definitions, modern and historical
+  package_url: https://pypi.org/project/pytz
+  version: 2022.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19841/default_bb711fa267b2329ed689711a5adb7d9e74610b20.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Robert Sparks
+  last_updated_on: 2022-08-18 16:40:51.000000000 Z
+- name: requests-mock
+  description: Mock out responses from the requests package
+  package_url: https://pypi.org/project/requests-mock
+  version: 1.9.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20365/default_20f72d65682b6cad9939bcf162d0ef14fced900c.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Jennifer Richards
+  last_updated_on: 2023-05-18 15:11:58.000000000 Z
+- name: selenium
+  description: Python bindings for Selenium
+  package_url: https://pypi.org/project/selenium
+  version: 3.141.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19869/default_d05f6f09935776629f62e8aed365805502c14921.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: nick
+  last_updated_on: 2021-11-03 21:52:14.000000000 Z
+- name: tblib
+  description: Traceback serialization library
+  package_url: https://pypi.org/project/tblib
+  version: 1.7.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20533/default_dade38abdfe446f4188d4c4755440d2748167b86.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Robert Sparks
+  last_updated_on: 2022-04-28 16:06:17.000000000 Z
+- name: vite
+  description: Native-ESM powered web dev build tool
+  package_url: https://www.npmjs.com/vite
+  version: 4.3.9
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: NGPixel
+  last_updated_on: 2023-06-05 23:24:23.000000000 Z
+  vulnerabilities:
+  - name: Vite dev server option `server.fs.deny` can be bypassed when hosted on case-insensitive
+      filesystem
+    cve_id: CVE-2024-23331
+    cve_url: https://github.com/advisories/GHSA-c24v-8rfc-w8vw
+    detected_date: Jan 20
+    severity: high
+    first_patched: 4.5.2
+  - name: Vite's `server.fs.deny` did not deny requests for patterns with directories.
+    cve_id: CVE-2024-31207
+    cve_url: https://github.com/advisories/GHSA-8jhw-289h-jh2g
+    detected_date: Apr 4
+    severity: moderate
+    first_patched: 4.5.3
+- name: tar
+  description: Tar for node
+  package_url: https://www.npmjs.com/tar
+  version: 6.1.11
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16466/default_fc6e1fc17e404d936593b5b901d67abb3386daa3.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/dev/coverage-action/package-lock.json
+  detection_source: dev/deploy-to-container/package.json
+  last_updated_by: NGPixel
+  last_updated_on: 2022-10-26 04:02:16.000000000 Z
+  vulnerabilities:
+  - name: Denial of service while parsing a tar file due to lack of folders count
+      validation
+    cve_id: CVE-2024-28863
+    cve_url: https://github.com/advisories/GHSA-f5x3-32g6-xq36
+    detected_date: Apr 10
+    severity: moderate
+    first_patched: 6.2.1
+- name: caniuse-lite
+  description: A smaller version of caniuse-db, with only the essentials!
+  package_url: https://www.npmjs.com/caniuse-lite
+  version: 1.0.30001495
+  license: CC-BY-4.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18015/default_1f8ed84269df051b7e91bcbcb5c88ac6f0d8720d.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: NGPixel
+  last_updated_on: 2023-06-05 23:24:23.000000000 Z
+- name: chalk
+  description: Terminal string styling done right
+  package_url: https://www.npmjs.com/chalk
+  version: 5.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15813/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/dev/coverage-action/package-lock.json
+  detection_source: dev/diff/package.json
+  last_updated_by: depfu[bot]
+  last_updated_on: 2023-03-21 22:57:10.000000000 Z
+- name: d3
+  description: Data-Driven Documents
+  package_url: https://www.npmjs.com/d3
+  version: 7.8.5
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16224/default_fef27d1523ac1844fc00e83e47bddd8898ff8a89.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Lars Eggert
+  last_updated_on: 2021-11-09 13:54:17.000000000 Z
+- name: dockerode
+  description: Docker Remote API module
+  package_url: https://www.npmjs.com/dockerode
+  version: 3.3.5
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17460/default_2ae5beb193365eca46e337162957275ebc9c6b3b.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/dev/deploy-to-container/package-lock.json
+  detection_source: dev/deploy-to-container/package.json
+  last_updated_by: depfu[bot]
+  last_updated_on: 2023-03-21 22:57:42.000000000 Z
+- name: enquirer
+  description: Stylish, intuitive and user-friendly prompt system
+  package_url: https://www.npmjs.com/enquirer
+  version: 2.3.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17607/default_78eeaf18342bdd59207e3ddbe161d5d7c0391a23.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/dev/diff/package-lock.json
+  detection_source: dev/diff/package.json
+  last_updated_by: Nicolas Giard
+  last_updated_on: 2022-08-18 17:28:47.000000000 Z
+- name: eslint-config-standard
+  description: JavaScript Standard Style - ESLint Shareable Config
+  package_url: https://www.npmjs.com/eslint-config-standard
+  version: 17.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15872/default_e4668902f8489350db9b0fb228523a571ef05b26.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/dev/coverage-action/package-lock.json
+  detection_source: dev/coverage-action/package.json
+  last_updated_by: depfu[bot]
+  last_updated_on: 2023-06-21 16:44:29.000000000 Z
+- name: eslint-plugin-cypress
+  description: An ESLint plugin for projects using Cypress
+  package_url: https://www.npmjs.com/eslint-plugin-cypress
+  version: 2.13.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18548/default_0998c3a5bd64540d478b8f189bd9d22c3c17b6a0.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: NGPixel
+  last_updated_on: 2023-06-05 23:24:23.000000000 Z
+- name: eslint-plugin-import
+  description: Import with sanity
+  package_url: https://www.npmjs.com/eslint-plugin-import
+  version: 2.27.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/dev/coverage-action/package-lock.json
+  detection_source: dev/coverage-action/package.json
+  last_updated_by: depfu[bot]
+  last_updated_on: 2023-06-21 16:44:29.000000000 Z
+- name: eslint-plugin-node
+  description: Additional ESLint's rules for Node.js
+  package_url: https://www.npmjs.com/eslint-plugin-node
+  version: 11.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15874/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/dev/coverage-action/package-lock.json
+  detection_source: dev/coverage-action/package.json
+  last_updated_by: depfu[bot]
+  last_updated_on: 2023-06-21 16:44:29.000000000 Z
+- name: eslint-plugin-promise
+  description: Enforce best practices for JavaScript promises
+  package_url: https://www.npmjs.com/eslint-plugin-promise
+  version: 6.1.1
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15885/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/dev/coverage-action/package-lock.json
+  detection_source: dev/coverage-action/package.json
+  last_updated_by: depfu[bot]
+  last_updated_on: 2023-06-21 16:44:29.000000000 Z
+- name: eslint-plugin-vue
+  description: Official ESLint plugin for Vue.js
+  package_url: https://www.npmjs.com/eslint-plugin-vue
+  version: 9.14.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15950/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: NGPixel
+  last_updated_on: 2023-06-05 23:24:23.000000000 Z
+- name: extract-zip
+  description: Unzip a zip file into a directory using 100% javascript
+  package_url: https://www.npmjs.com/extract-zip
+  version: 2.0.1
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17488/default_2ae5beb193365eca46e337162957275ebc9c6b3b.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/dev/diff/package-lock.json
+  detection_source: dev/diff/package.json
+  last_updated_by: depfu[bot]
+  last_updated_on: 2023-04-10 14:09:12.000000000 Z
+- name: file-saver
+  description: An HTML5 saveAs
+  package_url: https://www.npmjs.com/file-saver
+  version: 2.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16795/default_6e51a44775c61dcb2888547ad406a2f0cf2c344e.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Nicolas Giard
+  last_updated_on: 2022-07-13 21:20:23.000000000 Z
+- name: fs-extra
+  description: Fs-extra contains methods that aren't included in the vanilla Node.js
+    fs package
+  package_url: https://www.npmjs.com/fs-extra
+  version: 11.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15836/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/dev/deploy-to-container/package-lock.json
+  detection_source: dev/deploy-to-container/package.json
+  last_updated_by: depfu[bot]
+  last_updated_on: 2023-04-10 14:10:05.000000000 Z
+- name: got
+  description: Human-friendly and powerful HTTP request library for Node.js
+  package_url: https://www.npmjs.com/got
+  version: 12.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16258/default_ab17554b7e80af3d234b14168ed61e75d43f8eee.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/dev/coverage-action/package-lock.json
+  detection_source: dev/diff/package.json
+  last_updated_by: Nicolas Giard
+  last_updated_on: 2022-08-18 17:28:47.000000000 Z
+- name: js-cookie
+  description: A simple, lightweight JavaScript API for handling cookies
+  package_url: https://www.npmjs.com/js-cookie
+  version: 3.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16441/default_89ba91277e3434b03295bb11d22736632df1d04f.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: depfu[bot]
+  last_updated_on: 2023-05-09 20:23:14.000000000 Z
+- name: keypress
+  description: Make any Node ReadableStream emit "keypress" events
+  package_url: https://www.npmjs.com/keypress
+  version: 0.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17628/default_e1c4f2497325ac0d57aca0c3473ca18d24eb8a13.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/dev/diff/package-lock.json
+  detection_source: dev/diff/package.json
+  last_updated_by: Nicolas Giard
+  last_updated_on: 2022-08-18 17:28:47.000000000 Z
+- name: lodash-es
+  description: Lodash exported as ES modules
+  package_url: https://www.npmjs.com/lodash-es
+  version: 4.17.21
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16587/default_ebd83b4f0415be108d977ea72558b13fd7c5283d.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/dev/diff/package-lock.json
+  detection_source: dev/diff/package.json
+  last_updated_by: Nicolas Giard
+  last_updated_on: 2022-08-18 17:28:47.000000000 Z
+- name: moment
+  description: Parse, validate, manipulate, and display dates
+  package_url: https://www.npmjs.com/moment
+  version: 2.29.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15847/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: depfu[bot]
+  last_updated_on: 2023-04-25 21:29:08.000000000 Z
+- name: moment-timezone
+  description: Parse and display moments in any timezone
+  package_url: https://www.npmjs.com/moment-timezone
+  version: 0.5.43
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16298/default_8b65a873fd3277d73483d6846fa38192391abf23.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Nicolas Giard
+  last_updated_on: 2023-06-01 15:18:01.000000000 Z
+- name: ms
+  description: Tiny millisecond conversion utility
+  package_url: https://www.npmjs.com/ms
+  version: 2.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16565/default_536789d2630ed352dc721a1c915ab456b7660201.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/dev/coverage-action/package-lock.json
+  detection_source: package.json
+  last_updated_by: Lars Eggert
+  last_updated_on: 2021-11-09 13:54:17.000000000 Z
+- name: nanoid
+  description: A tiny
+  package_url: https://www.npmjs.com/nanoid
+  version: 4.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17208/default_183829c5079b84333a720d8590a328efc043ba0e.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/dev/deploy-to-container/package-lock.json
+  detection_source: dev/deploy-to-container/package.json
+  last_updated_by: depfu[bot]
+  last_updated_on: 2023-04-12 22:36:18.000000000 Z
+- name: npm-check-updates
+  description: Find newer versions of dependencies than what your package.json or
+    bower.json allows
+  package_url: https://www.npmjs.com/npm-check-updates
+  version: 16.10.12
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16610/default_50c9ed1615a25628505ab53def64d82450ced26b.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/dev/coverage-action/package-lock.json
+  detection_source: dev/coverage-action/package.json
+  last_updated_by: depfu[bot]
+  last_updated_on: 2023-05-24 14:50:10.000000000 Z
+- name: pretty-bytes
+  description: 'Convert bytes to a human readable string: 1337 → 1.34 kB'
+  package_url: https://www.npmjs.com/pretty-bytes
+  version: 6.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16763/default_6dc099b12d47e378ae121fb53c336fe5d8f0ffc8.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/dev/diff/package-lock.json
+  detection_source: dev/diff/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-03-13 20:00:48.000000000 Z
+- name: seedrandom
+  description: Seeded random number generator for Javascript
+  package_url: https://www.npmjs.com/seedrandom
+  version: 3.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17815/default_78858facb60c08d15198eb69a6c7f48463f2c09f.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/playwright/package-lock.json
+  detection_source: package.json
+  last_updated_by: Nicolas Giard
+  last_updated_on: 2022-09-07 18:14:12.000000000 Z
+- name: send
+  description: Better streaming static file server with Range and conditional-GET
+    support
+  package_url: https://www.npmjs.com/send
+  version: 0.18.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17093/default_1dbf402c11ef653fcaedc84e608a244e30ebfb87.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Nicolas Giard
+  last_updated_on: 2022-09-07 18:14:12.000000000 Z
+- name: slugify
+  description: Slugifies a String
+  package_url: https://www.npmjs.com/slugify
+  version: 1.6.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17389/default_33c3173e7d0e91f7cea0eab9883ca83b157bd4a5.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/dev/deploy-to-container/package-lock.json
+  detection_source: dev/deploy-to-container/package.json
+  last_updated_by: depfu[bot]
+  last_updated_on: 2023-04-10 14:10:05.000000000 Z
+- name: sortablejs
+  description: JavaScript library for reorderable drag-and-drop lists on modern browsers
+    and touch devices
+  package_url: https://www.npmjs.com/sortablejs
+  version: 1.15.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17481/default_188fa5cbc974fa18aed5a9b1f0d7f2bfaf8f1648.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Lars Eggert
+  last_updated_on: 2022-05-13 19:08:26.000000000 Z
+- name: vue
+  description: Vue
+  package_url: https://www.npmjs.com/vue
+  version: 3.3.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15844/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Lars Eggert
+  last_updated_on: 2021-11-09 13:54:17.000000000 Z
+- name: vue-router
+  description: Official router for Vue.js 2
+  package_url: https://www.npmjs.com/vue-router
+  version: 4.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15969/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: NGPixel
+  last_updated_on: 2023-06-05 23:24:23.000000000 Z
+- name: yargs
+  description: Yargs the modern, pirate-themed, successor to optimist
+  package_url: https://www.npmjs.com/yargs
+  version: 17.7.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15887/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
+  detection_source_url: https://github.com/Huntemall/datatracker-dev/blob/main/dev/deploy-to-container/package-lock.json
+  detection_source: dev/deploy-to-container/package.json
+  last_updated_by: depfu[bot]
+  last_updated_on: 2023-05-09 20:23:33.000000000 Z
